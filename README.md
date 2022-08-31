@@ -40,6 +40,8 @@ implementation 'com.tzx.json:jsonhandleview:1.2.2'
 ```java
 JsonViewLayout jsonViewLayout = findViewById(R.id.jsonView);
 jsonViewLayout.bindJson("your json strings." || JSONObject || JSONArray);
+jsonViewLayout.ScrollView(true);
+
 ```
 
 ## Code Style
