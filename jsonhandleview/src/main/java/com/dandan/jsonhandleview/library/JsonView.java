@@ -1,4 +1,4 @@
-package core.Ninjalibrary.JsonView;
+package com.dandan.jsonhandleview.library;
 
 import android.content.Context;
 import android.graphics.Color;
